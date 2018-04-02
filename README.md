@@ -8,20 +8,16 @@ Here, we investigated wage discrepancy within the City of Seattle.
 # Summary
 The City of Seattle largely pays men and women equal wages for the same job (median wage difference = $0).
 
-##### For a given job title, men and women are likely to receive similar hourly wages.
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/wage_differences_histogram.png)
 
-##### However, this is not balanced across all departments
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/relative_income.png)
 
-However, the city employs vastly more men than women. The imbalance in employment is particularly noticeable in a few large departments, which contain ????% of the city's workforce.
+However, the city employs vastly more men than women. The imbalance in employment is particularly noticeable in a few large departments, which contain XX% of the city's workforce.
 
-##### Men hold more city jobs than women
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/employees_in_each_department.png)
 
 Of important note is that the gender imbalance is particularly striking when comparing jobs with high salaries. As seen in the plot below, the proportion of women in a given income bracket decreases as hourly wages increase.
 
-##### Women are less likely to hold the highest-paid positions in the city
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/wage_brackets.png)
 
 On average, men are paid ~$3.00/hour more than women (*P*-value < 0.001). Assuming a 40 hour work week and 50 week work year, men are paid, on average, ~$6000 more per year than women.
