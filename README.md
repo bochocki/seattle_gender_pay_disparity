@@ -6,7 +6,9 @@ Such patterns are particularly troubling when they are observed in public sector
 Here, we investigated wage discrepancy within the City of Seattle.
 
 # Summary
-The City of Seattle largely pays men and women equal wages for the same job (mean wage different = ???).
+The City of Seattle largely pays men and women equal wages for the same job (median wage difference = $0).
+
+![For a given job title, men and women are likely to receive similar hourly wages.](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/wage_differences_histogram.png)
 
 However, the city employs vastly more men than women. The imbalance in employment is particularly noticeable in a few large departments, which contain ????% of the city's workforce.
 
