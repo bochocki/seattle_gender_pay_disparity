@@ -12,7 +12,7 @@ The City of Seattle largely pays men and women equal wages for the same job (med
 
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/relative_income.png)
 
-However, the city employs vastly more men than women. The imbalance in employment is particularly noticeable in a few large departments, which contain XX% of the city's workforce.
+However, the city employs vastly more men than women. The imbalance in employment is particularly noticeable in a few large departments, which contain a majority of the city's workforce.
 
 ![](https://github.com/bochocki/seattle_gender_pay_disparity/blob/master/employees_in_each_department.png)
 
